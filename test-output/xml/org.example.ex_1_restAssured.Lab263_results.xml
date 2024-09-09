@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestAssure_API_Learning"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.003">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getRequest2"
+                time="0.003"
+                classname="org.example.ex_1_restAssured.Lab263">
+            </testcase>
+</testsuite>

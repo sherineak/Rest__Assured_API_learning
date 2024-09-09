@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestAssure_API_Learning"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.935">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getRequest"
+                time="3.808"
+                classname="TestNG_Learn.Lab261">
+            </testcase>
+            <testcase
+                name="getRequest1"
+                time="1.127"
+                classname="TestNG_Learn.Lab261">
+            </testcase>
+</testsuite>

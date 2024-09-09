@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite by Sherine ">
+    <test verbose="2" preserve-order="true" name="RestAssure_API_Learning">
+        <classes>
+            <class name="TestNG_Learn.Lab262">
+            <methods>
+                <include name="getRequest"></include>
+            </methods>
+            </class>
+            <class name="org.example.ex_1_restAssured.Lab263">
+            </class>
+        </classes>
+    </test>
+</suite>
