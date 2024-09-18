@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestAssure_API_Learning"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.268">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testBDDStylePostPositive"
+                time="3.268"
+                classname="CRUD_Operation.POST1.Lab272">
+            </testcase>
+</testsuite>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestAssure_API_Learning"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.437">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getRequestNonBDDStyle"
+                time="1.772"
+                classname="CRUD_Operation.GET.NonBDD_Style.Lab270">
+            </testcase>
+            <testcase
+                name="getRequestNonBDDStyle2"
+                time="0.665"
+                classname="CRUD_Operation.GET.NonBDD_Style.Lab270">
+            </testcase>
+</testsuite>
