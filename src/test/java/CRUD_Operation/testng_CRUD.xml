@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite by Sherine ">
+    <test verbose="2" preserve-order="true" name="CRUD All Test Cases">
+<!--        <classes>-->
+<!--            <class name="CRUD_Operation.GET.NonBDD_Style.Lab270"></class>-->
+<!--            <class name="CRUD_Operation.PUT.Lab273"></class>-->
+<!--            <class name="CRUD_Operation.POST1.Lab272_NONBDD"></class>-->
+<!--            <class name="CRUD_Operation.PATCH.Lab274"></class>-->
+<!--            <class name="CRUD_Operation.DELETE.Lab275"></class>-->
+<!--        </classes>-->
+        <packages>
+            <package name="CRUD_Operation.*" />
+        </packages>
+    </test>
+</suite>

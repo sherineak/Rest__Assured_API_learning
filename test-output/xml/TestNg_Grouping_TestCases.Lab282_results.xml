@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestAssure_API_Learning"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.130">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getBookingID"
+                time="0.124"
+                classname="TestNg_Grouping_TestCases.Lab282">
+            </testcase>
+            <testcase
+                name="getToken"
+                time="0.002"
+                classname="TestNg_Grouping_TestCases.Lab282">
+            </testcase>
+            <testcase
+                name="testDeleteRequest"
+                time="0.002"
+                classname="TestNg_Grouping_TestCases.Lab282">
+            </testcase>
+            <testcase
+                name="testPutRequest"
+                time="0.002"
+                classname="TestNg_Grouping_TestCases.Lab282">
+            </testcase>
+</testsuite>

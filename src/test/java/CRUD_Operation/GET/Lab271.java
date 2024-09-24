@@ -12,7 +12,7 @@ public class Lab271 {
     public void getRquestPositive(){
         RequestSpecification r = RestAssured.given();
         r.baseUri("https://restful-booker.herokuapp.com");
-        r.basePath("booking/1");
+        r.basePath("booking/2974");
         Response response=r.when().log().all().get();
         response.then().log().all().statusCode(200);
     }

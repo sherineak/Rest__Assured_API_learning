@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestAssure_API_Learning"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.117">
+    <properties></properties>
+
+
+
+            <testcase
+                name="serverStartedOk"
+                time="0.115"
+                classname="TestNg_Grouping_TestCases.Lab281">
+            </testcase>
+            <testcase
+                name="method1"
+                time="0.002"
+                classname="TestNg_Grouping_TestCases.Lab281">
+            </testcase>
+</testsuite>

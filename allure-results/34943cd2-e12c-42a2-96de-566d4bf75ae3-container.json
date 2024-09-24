@@ -1,0 +1,1 @@
+{"uuid":"34943cd2-e12c-42a2-96de-566d4bf75ae3","name":"All Test Suite by Sherine ","children":["ffd6d8d7-1cde-4d1e-a139-20aa50107031"],"befores":[],"afters":[{"name":"emailToQALead","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1727179839483,"stop":1727179839485}],"start":1727179839215,"stop":1727179839487}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestAssure_API_Learning"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.072">
+    <properties></properties>
+
+
+
+            <testcase
+                name="QARun"
+                time="0.002"
+                classname="TestNg_Grouping_TestCases.Lab280">
+            </testcase>
+            <testcase
+                name="SanityRun"
+                time="0.003"
+                classname="TestNg_Grouping_TestCases.Lab280">
+            </testcase>
+            <testcase
+                name="ProdRun"
+                time="0.059"
+                classname="TestNg_Grouping_TestCases.Lab280">
+            </testcase>
+            <testcase
+                name="SmokeRun"
+                time="0.008"
+                classname="TestNg_Grouping_TestCases.Lab280">
+            </testcase>
+</testsuite>

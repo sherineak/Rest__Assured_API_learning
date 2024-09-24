@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite by Sherine ">
+    <listeners>
+        <listener class-name="Testng_Listeners.CustomListener"></listener>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="RestAssure_API_Learning">
+
+        <classes>
+            <class name="Testng_Listeners.Lab288_Listeners_Example">
+
+            </class>
+        </classes>
+    </test>
+</suite>

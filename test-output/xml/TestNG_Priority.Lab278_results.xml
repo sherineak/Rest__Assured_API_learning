@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestAssure_API_Learning"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.080">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testMethodOne"
+                time="0.002"
+                classname="TestNG_Priority.Lab278">
+            </testcase>
+            <testcase
+                name="testMethodNegative"
+                time="0.074"
+                classname="TestNG_Priority.Lab278">
+            </testcase>
+            <testcase
+                name="testMethodZero"
+                time="0.002"
+                classname="TestNG_Priority.Lab278">
+            </testcase>
+            <testcase
+                name="testMethodTwo"
+                time="0.002"
+                classname="TestNG_Priority.Lab278">
+            </testcase>
+</testsuite>
