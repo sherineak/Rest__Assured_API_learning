@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestAssure_API_Learning"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.614">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testTwoPayloadUsingArray"
+                time="2.614"
+                classname="Gson.Serialization.Lab293">
+            </testcase>
+</testsuite>

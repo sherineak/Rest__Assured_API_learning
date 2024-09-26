@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestAssure_API_Learning"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.259">
+    <properties></properties>
+
+
+
+            <testcase
+                name="SerialUsingJackson"
+                time="0.259"
+                classname="Jackson_API.Serialization.Lab295">
+            </testcase>
+</testsuite>
